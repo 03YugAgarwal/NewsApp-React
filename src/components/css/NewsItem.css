@@ -1,0 +1,10 @@
+.news-item-card{
+    display: flex;
+    flex-direction: column;
+    /* width: 30%; */
+    border: 2px solid red;
+    justify-content: center;
+    align-items: center;
+    margin: 0px 30px;
+    height: 10vh;
+}

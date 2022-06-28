@@ -1,0 +1,6 @@
+.news-grid{
+    display: grid;
+    /* grid-auto-columns: 3; */
+    grid-template-columns: 30% 30% 30%;
+    justify-content: center;
+}
