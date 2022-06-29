@@ -13,3 +13,20 @@
     row-gap: 3rem;
 }
 
+.news-next-page{
+    display: flex;
+    justify-content: center;
+    margin: 40px;
+}
+
+.news-btn{
+    margin: 0px auto;
+    width: 125px;
+    padding: 10px;
+    font-size: 1rem;
+    background-color: #2F8F9D;
+    color: white;
+    border: none;
+    border-radius: 10px;
+}
+
