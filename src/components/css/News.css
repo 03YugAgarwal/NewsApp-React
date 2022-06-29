@@ -1,6 +1,15 @@
+.news-primary-heading{
+    text-align: center;
+    margin: 2rem 0px;
+
+}
+
+
 .news-grid{
     display: grid;
     /* grid-auto-columns: 3; */
-    grid-template-columns: 30% 30% 30%;
-    justify-content: center;
+    grid-template-columns: 27% 27% 27%;
+    justify-content: space-evenly;
+    row-gap: 3rem;
 }
+
